@@ -1,5 +1,3 @@
-# python3
-
 from collections import namedtuple
 
 Bracket = namedtuple("Bracket", ["char", "position"])
@@ -33,6 +31,6 @@ def main():
     else:
         print(mismatch)
 
-
+#Edvards Bārtulis 221RDB202
 if __name__ == "__main__":
     main()
